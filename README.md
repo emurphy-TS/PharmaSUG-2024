@@ -8,7 +8,7 @@ Below is a list of some of the tools mentioned during this talk:
 
 - Self-guided trainings for new R users:
   - [code academy](https://www.codecademy.com/)
-  - [edx]([https://pages.github.com/](https://www.edx.org/))
+  - [edx](https://www.edx.org/)
 
 
 
